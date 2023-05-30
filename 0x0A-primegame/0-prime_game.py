@@ -1,6 +1,5 @@
 #!/usr/bin/python3
-'''Prime game .
-'''
+'''Prime game'''
 
 def isWinner(x, nums):
     '''Determines the winner from an array of game played
